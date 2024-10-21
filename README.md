@@ -49,3 +49,5 @@ The proposed structure that we are exploring in these documents is, approximatel
 In this repository, I will assemble what I know, and have found out so far, and hopefully you will be able to add and improve.
 
 - [Where to get components](./WhereToGetComponents.md)
+- [Why LoRa Mesh?](./WhyLoRaMesh.md)
+- [The first (simplest) Proof of Concept](./SimplestPoC.md)

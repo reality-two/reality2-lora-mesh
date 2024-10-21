@@ -2,11 +2,11 @@
 
 There are many places to buy electronics components, mostly international, but sometimes there are local suppliers as well.  In New Zealand (where I am based), for example, [Jaycar](https://www.jaycar.co.nz) is one option.  There are several online shops with local (NZ) addresses, but they tend to be store-fronts for international organisations.  [Digikey](https://www.digikey.co.nz/), [Element14](https://nz.element14.com/) and [RadioShack](https://nz.rs-online.com/web/) are a few to check out.
 
-One international site I find particularly inspiring is [Dfrobot](https://www.dfrobot.com), often a great place to peruse for inspiration.  And, of course, there is [Aliexpress](https://www.aliexpress.com) where you can find almost anything.
+One international site I find particularly inspiring is [DFRobot](https://www.dfrobot.com), often a great place to peruse for inspiration.  And, of course, there is [Aliexpress](https://www.aliexpress.com) where you can find almost anything.
 
-## How do you know what to get?
+## How do I know what to get?
 
-If you are starting out in the electronics maker space, then it can be overwhelming to know what components to get.
+If you are starting out in the electronics maker space, then it can be overwhelming to know what components to get.  Below are a few tips.  However, the best source of information is to get out onto your favourite search engine, have some discussions with your favourite AI, and see what you can find and learn.  Once you have a general understanding, actually making something is then important to developing understanding.  Also, follow the work on these pages - hopefully they will be instructional.
 
 The core structure of any device is roughly similar.  You will need a processor, sensors and actuators.
 
@@ -20,7 +20,7 @@ Processors can be divided into two rough classes:
 
 <img src="./images/arduino.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
-1) CPUs - for more intensive applications where more complex processing is required, a more complete Central Processing Unit is required.  There are many to choose from, but one that is popular is the [Raspberry PI](https://www.raspberrypi.com/) range.
+2) CPUs - for more intensive applications where more complex processing is required, a more complete Central Processing Unit is required.  There are many to choose from, but one that is popular is the [Raspberry PI](https://www.raspberrypi.com/) range.
 
 <img src="./images/raspberrypi.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
@@ -42,7 +42,7 @@ Sensors tend to range in price from a few dollars to many thousands of dollars. 
 
 Actuators do stuff to the environment.  Usually these are motors, but you may find relay switches, linear actuators, heating elements, etc.  One can even include various noise makers such as speakers, alarms and buzzers.
 
-## Sensor kits
+### Starter Kits
 
 Often a good way to begin is to get a kit.  There are many to choose from, for example on [DFRobot](https://www.dfrobot.com/search-sensor-kits.html).  Further, many places offer specially configured sensors that are easy to put together, often just plugging into the controller.  One such is the [Gravity](https://www.dfrobot.com/search-gravity.html) range of devices.
 
