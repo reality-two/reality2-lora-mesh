@@ -39,6 +39,11 @@ Are these the only components that would work?  No, not at all, and part of the 
 
 As a test, and to get things set up, try something with the screens, I thought it would be a good idea to try building a mesh network using just WiFi.  This code does just that.  For each node that joins the network, the screen blinks an extra blink.
 
+
+This all works well so far.
+
+![](./images/lorablink.gif)
+
 ```c
 //************************************************************
 // this is a simple example that uses the easyMesh library
@@ -209,5 +214,3 @@ void delayReceivedCallback(uint32_t from, int32_t delay) {
   Serial.printf("Delay to node %u is %d us\n", from, delay);
 }
 ```
-
-That all works well so far.  Yon can see a [video here.](./images/wifi_lora.mp4)
