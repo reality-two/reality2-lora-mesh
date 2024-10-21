@@ -6,7 +6,7 @@ One international site I find particularly inspiring is [DFRobot](https://www.df
 
 ## How do I know what to get?
 
-If you are starting out in the electronics maker space, then it can be overwhelming to know what components to get.  Below are a few tips.  However, the best source of information is to get out onto your favourite search engine, have some discussions with your favourite AI, and see what you can find and learn.  Once you have a general understanding, actually making something is then important to developing understanding.  Also, follow the work on these pages - hopefully they will be instructional.
+If you are starting out in the electronics maker space, then it can be overwhelming to know what components to get.  Below are a few tips.  However, the best source of information is to get out onto your favourite search engine, have some discussions with your favourite AI, and see what you can find and learn.  Once you have a general understanding, actually making something is then important to developing that understanding further.  Also, follow the work on these pages - hopefully they will be instructional.
 
 The core structure of any device is roughly similar.  You will need a processor, sensors and actuators.
 
@@ -16,21 +16,21 @@ The processor is programmed to take in the information from the sensors, and pro
 
 Processors can be divided into two rough classes:
 
-1) Controllers - most often [Arduino](https://www.arduino.cc/) compatible.  These can run simple programmes, generally do one thing at a time, are low powered, have little memory, but are very efficient in power usage.
+1) Microcontrollers - most often [Arduino](https://www.arduino.cc/) compatible.  These can run simple programmes, generally do one thing at a time, are low powered, have little memory, but are very efficient in power usage.
 
 <img src="./images/arduino.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
-2) CPUs - for more intensive applications where more complex processing is required, a more complete Central Processing Unit is required.  There are many to choose from, but one that is popular is the [Raspberry PI](https://www.raspberrypi.com/) range.
+2) CPUs - for more intensive applications where more complex processing is required, a more complete Central Processing Unit is needed.  There are many to choose from, but one that is popular is the [Raspberry PI](https://www.raspberrypi.com/) range.
 
 <img src="./images/raspberrypi.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
-Another that is popular is the [unihiker](https://www.dfrobot.com/search-unihiker.html).
+Another that is popular is the [unihiker](https://www.dfrobot.com/search-unihiker.html), which comes with builtin touch screen, several sensors, a USB-A plug, and other plugs for sensors.
 
 <img src="./images/unihiker.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
-How do you know which to get?  Generally, if the task requires relatively simple processing, such as sending of sensed data to other sources, and where low power consumption is important, then controllers are probably the best to use.  If you need to do more complex processing (eg AI analysis of data), then a CPU (possibly with an NPU - neural processing unit), is likely the best option.  Though powering it will become more of an issue.
+How do you know which to get?  Generally, if the task requires relatively simple processing, such as sending of sensed data to other places, and where low power consumption is important, then microcontrollers are probably the best to use.  If you need to do more complex processing (eg AI analysis of data), then a CPU (possibly with an NPU - neural processing unit), is likely the best option.  Though powering it will become more of an issue.
 
-It is common to create systems with a combination of devices - low powered controllers to read and pass on data, CPUs (perhaps with NPUs) to work with that data.  This is the model used with the Wairoa project.
+It is common to create systems with a combination of devices - low powered microcontrollers to read and pass on data, CPUs (perhaps with NPUs) to work with that data.  This is the model used with the Wairoa project.
 
 ### Sensors
 
@@ -40,10 +40,12 @@ Sensors tend to range in price from a few dollars to many thousands of dollars. 
 
 ### Actuators
 
-Actuators do stuff to the environment.  Usually these are motors, but you may find relay switches, linear actuators, heating elements, etc.  One can even include various noise makers such as speakers, alarms and buzzers.
+Actuators do stuff to the environment.  Usually these are motors, but you may find relay switches, linear actuators, heating elements, etc.  You can even include various noise makers such as speakers, alarms and buzzers.
 
 ### Starter Kits
 
 Often a good way to begin is to get a kit.  There are many to choose from, for example on [DFRobot](https://www.dfrobot.com/search-sensor-kits.html).  Further, many places offer specially configured sensors that are easy to put together, often just plugging into the controller.  One such is the [Gravity](https://www.dfrobot.com/search-gravity.html) range of devices.
 
 <img src="./images/gravitysensors.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+
+Then, there are a myriad of sites where you can find projects to tackle, discussion forums and so forth.  The main thing is to get in there and give it a go.

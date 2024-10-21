@@ -4,8 +4,11 @@ This repository is set up to share what we are doing and have found out in terms
 
 Please feel free to comment, help, give suggestions etc as you see fit.  This is intended to be a helpful resource and perhaps a learning tool.
 
+Some links:
+
  - [Learn more about Reality2.](https://github.com/reality-two/reality2-documentation)
  - [What is LoRa Mesh?](https://hackaday.com/2020/02/26/lora-mesh-network-with-off-the-shelf-hardware/)
+ - [Meshtastic - An open source, off-grid, decentralized, mesh network built to run on affordable, low-power devices](https://meshtastic.org/) <-- This one looks really good - uses different components that described in this document - could be well worth investigating further.
 
 ## Context
 
