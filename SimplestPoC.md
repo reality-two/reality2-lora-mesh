@@ -210,5 +210,4 @@ void delayReceivedCallback(uint32_t from, int32_t delay) {
 }
 ```
 
-That all works
-
+That all works well so far.  Yon can see a [video here.](./images/wifi_lora.mp4)
