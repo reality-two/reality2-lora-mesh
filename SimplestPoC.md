@@ -45,6 +45,8 @@ This all works well so far.
 
 You can read more about the [Painless Mesh code here](https://randomnerdtutorials.com/esp-mesh-esp32-esp8266-painlessmesh/), and [DFRobot GDL (for drawing to the screen)](https://github.com/DFRobot/DFRobot_GDL/blob/master/README.md).
 
+The code below is not well structured.  For further work, we will need to consider structuring the code well to make adding new features easier.
+
 ```c
 //************************************************************
 // this is a simple example that uses the easyMesh library
@@ -216,11 +218,15 @@ void delayReceivedCallback(uint32_t from, int32_t delay) {
 }
 ```
 
-## Doing this with LoRa
+## Connecting the battery and solar panel
 
 TBC
 
-## Sending and receiving an (alarm) signal
+## Connecting via LoRa Mesh
+
+TBC
+
+## Sending and receiving an (alarm) signal (via LoRa mesh)
 
 TBC
 
