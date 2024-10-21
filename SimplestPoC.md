@@ -215,3 +215,15 @@ void delayReceivedCallback(uint32_t from, int32_t delay) {
   Serial.printf("Delay to node %u is %d us\n", from, delay);
 }
 ```
+
+## Doing this with LoRa
+
+TBC
+
+## Sending and receiving an (alarm) signal
+
+TBC
+
+## Sending and recieving a message
+
+TBC
