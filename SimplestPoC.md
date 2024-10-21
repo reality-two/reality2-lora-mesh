@@ -37,12 +37,13 @@ Are these the only components that would work?  No, not at all, and part of the 
 
 ## Create a mesh network without LoRa
 
-As a test, and to get things set up, try something with the screens, I thought it would be a good idea to try building a mesh network using just WiFi.  This code does just that.  For each node that joins the network, the screen blinks an extra blink.
-
+As a test, to get things set up, and try something with the screens, I thought it would be a good idea to try building a mesh network using just WiFi.  This code does just that.  For each node that joins the network, the screen blinks an extra blink.
 
 This all works well so far.
 
 ![](./images/lorablink.gif)
+
+You can read more about the [Painless Mesh code here](https://randomnerdtutorials.com/esp-mesh-esp32-esp8266-painlessmesh/), and [DFRobot GDL (for drawing to the screen)](https://github.com/DFRobot/DFRobot_GDL/blob/master/README.md).
 
 ```c
 //************************************************************
