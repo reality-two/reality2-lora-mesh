@@ -212,5 +212,3 @@ void delayReceivedCallback(uint32_t from, int32_t delay) {
 
 That all works
 
-[<img src="./images/wifi_lora.mp4" width="600" height="300"
-/>](./images/wifi_lora.mp4)
