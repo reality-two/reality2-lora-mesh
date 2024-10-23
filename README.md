@@ -8,7 +8,8 @@ Some links:
 
  - [Learn more about Reality2.](https://github.com/reality-two/reality2-documentation)
  - [What is LoRa Mesh?](https://hackaday.com/2020/02/26/lora-mesh-network-with-off-the-shelf-hardware/)
- - [Meshtastic - An open source, off-grid, decentralized, mesh network built to run on affordable, low-power devices](https://meshtastic.org/) <-- This one looks really good - uses different components that described in this document - could be well worth investigating further.
+ - [Meshtastic - An open source, off-grid, decentralized, mesh network built to run on affordable, low-power devices](https://meshtastic.org/)
+   - This one looks really good - uses slightly different components than we are thinking of - could be well worth investigating further.
 
 ## Context
 

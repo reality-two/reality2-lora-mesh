@@ -1,5 +1,7 @@
 # Why LoRa Mesh?
-LoRa stands for Long Range.  There are [specfic frequencies available in countries](https://meshtastic.org/docs/configuration/radio/lora/) around the world that are open for these kinds of communications.  Make sure you purchase equipment with the correct frequencies for your country.
+LoRa stands for Long Range, so is ideal where you want to connect things that are far apart.  However, it is not fast... 
+
+There are [specfic frequencies available in countries](https://meshtastic.org/docs/configuration/radio/lora/) around the world that are open for these kinds of communications.  Make sure you purchase equipment with the correct frequencies for your country.
 
 There are numerous sites that describe the different types of LoRa, what they can be used for, how they work, and so forth.  So, we won't cover that here.  One that I have found helpful is t[hethingsnetwork.org](https://www.thethingsnetwork.org/).
 
